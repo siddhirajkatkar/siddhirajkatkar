@@ -80,8 +80,6 @@ I work with:
 * DevOpos
 * DSA 
 
----![WhatsApp Image 2025-11-28 at 23 33 08_f50f739e](https://github.com/user-attachments/assets/85db5a53-402b-438d-b752-d78aa92d1cdb)
-
 
 ## 📊 GitHub Stats
 
